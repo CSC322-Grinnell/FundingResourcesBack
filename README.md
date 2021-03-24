@@ -2,6 +2,8 @@
 
 Welcome to the Funding Resource Project API. The API is hosted on heroku here: `https://frozen-tor-16945.herokuapp.com/`. I've included a brief guide to the API below for any future groups.
 
+This Project was worked on by Everett Hayes, Izan Ahmed, Himanshu Bainwala, Luis Lua, & Govind Sartaj. Feel free to reach out to us with questions.
+
 ## Getting the API working locally ##
 
 I'm going to give a broad list of steps.
